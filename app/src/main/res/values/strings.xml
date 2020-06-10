@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CallRecords</string>
+    <string name="getCallRecords">获取通话记录</string>
+    <string name="staCallRecords">统计通话记录</string>
+    <string name="appVersion">移动开发技术</string>
+    <string name="outGoingCall">拨出电话</string>
+    <string name="receivedCall">已接电话</string>
+    <string name="missedCall">未接电话</string>
+    <string name="maxTime">时长最长</string>
+    <string name="lastFive">最近5个</string>
+    <string name="mostTimes">次数最多</string>
+</resources>
